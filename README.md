@@ -1,11 +1,10 @@
-<h1 align="center">Hey, I'm f4pl0</h1>
-<h3 align="center">Just another tech savvy guy.</h3>
+<h1 align="center">Hey, I'm f4</h1>
+<h3 align="center">Just another tech savvy guy</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=f4pl0&label=Profile%20views&color=0e75b6&style=flat" alt="f4pl0" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=f4pl0" alt="f4pl0" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 

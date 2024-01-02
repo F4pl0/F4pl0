@@ -5,8 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=f4pl0&theme=monokai" alt="f4pl0" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=f4pl0&show_icons=true&locale=en&layout=compact" alt="f4pl0" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=f4pl0&show_icons=true&locale=en&layout=compact&theme=monokai" alt="f4pl0" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=f4pl0&show_icons=true&locale=en" alt="f4pl0" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=f4pl0&show_icons=true&locale=en&theme=monokai" alt="f4pl0" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=f4pl0&" alt="f4pl0" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=f4pl0&theme=monokai" alt="f4pl0" /></p>
